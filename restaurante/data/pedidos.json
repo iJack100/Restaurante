@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "mesa": 1,
+        "id_plato": 1,
+        "cantidad": 3,
+        "total": 25.5,
+        "estado": "P",
+        "fecha": "07/05/2026 22:53"
+    },
+    {
+        "id": 2,
+        "mesa": 2,
+        "id_plato": 2,
+        "cantidad": 4,
+        "total": 20.0,
+        "estado": "L",
+        "fecha": "07/05/2026 22:53"
+    },
+    {
+        "id": 3,
+        "mesa": 2,
+        "id_plato": 1,
+        "cantidad": 3,
+        "total": 25.5,
+        "estado": "P",
+        "fecha": "07/05/2026 22:54"
+    },
+    {
+        "id": 4,
+        "mesa": 2,
+        "id_plato": 4,
+        "cantidad": 2,
+        "total": 37.0,
+        "estado": "P",
+        "fecha": "07/05/2026 22:55"
+    }
+]

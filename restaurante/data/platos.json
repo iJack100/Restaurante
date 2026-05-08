@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ceviche de camarón",
+        "id_categoria": 1,
+        "precio": 8.5,
+        "descripcion": "Camarón fresco con limón y cilantro",
+        "disponible": "S"
+    },
+    {
+        "id": 2,
+        "nombre": "Tigrillo",
+        "id_categoria": 1,
+        "precio": 5.0,
+        "descripcion": "Verde frito con queso y huevo",
+        "disponible": "S"
+    },
+    {
+        "id": 3,
+        "nombre": "Seco de pollo",
+        "id_categoria": 2,
+        "precio": 12.0,
+        "descripcion": "Pollo guisado con arroz y menestra",
+        "disponible": "S"
+    },
+    {
+        "id": 4,
+        "nombre": "Churrasco",
+        "id_categoria": 2,
+        "precio": 18.5,
+        "descripcion": "Bistec a la parrilla con papas fritas",
+        "disponible": "S"
+    },
+    {
+        "id": 5,
+        "nombre": "Flan de vainilla",
+        "id_categoria": 3,
+        "precio": 4.0,
+        "descripcion": "Flan casero con caramelo",
+        "disponible": "S"
+    },
+    {
+        "id": 6,
+        "nombre": "Jugo de maracuyá",
+        "id_categoria": 4,
+        "precio": 2.5,
+        "descripcion": "Jugo natural de maracuyá",
+        "disponible": "S"
+    },
+    {
+        "id": 7,
+        "nombre": "Camaron apanado",
+        "id_categoria": 2,
+        "precio": 4.0,
+        "descripcion": "Plato del dia",
+        "disponible": "S"
+    },
+    {
+        "id": 9,
+        "nombre": "Arroz con atun",
+        "id_categoria": 5,
+        "precio": 10.0,
+        "descripcion": "Rico hecho por jhoan",
+        "disponible": "S"
+    },
+    {
+        "id": 10,
+        "nombre": "Chuzo",
+        "id_categoria": 1,
+        "precio": 1.25,
+        "descripcion": "Cuencano",
+        "disponible": "S"
+    }
+]

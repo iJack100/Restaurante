@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "Entradas",
+        "descripcion": "Aperitivos y entrantes del menú"
+    },
+    {
+        "id": 2,
+        "nombre": "pure",
+        "descripcion": "plato gratis"
+    },
+    {
+        "id": 3,
+        "nombre": "Postres",
+        "descripcion": "Dulces y postres de temporada"
+    },
+    {
+        "id": 4,
+        "nombre": "Bebidas",
+        "descripcion": "Jugos, gaseosas y aguas"
+    },
+    {
+        "id": 5,
+        "nombre": "Comida gurmet",
+        "descripcion": "Pollo con moro"
+    },
+    {
+        "id": 6,
+        "nombre": "Helados",
+        "descripcion": "Topsi"
+    }
+]
